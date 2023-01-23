@@ -1,0 +1,40 @@
+CREDITS 
+
+MODEL
+- BMW R 1200RT Purchased by beautiful bastards at Code Zero Gaming
+- Bike poly Crunched by Thehurk
+- Converted to GTA V by Thehurk
+- Templated by Windows446 and Thehurk
+
+Other Parts
+- Code3 BMW police lights by Thehurk
+- General Electric Rangr by Thehurk, textures by T-Swizzle
+- Flashlight and Baton Mounts by Thehurk
+- Antenna Mount by Thehurk
+- Wilson Antenna By Gump
+
+
+-Skin Gendarmerie de DarkHatos
+
+
+INSTALLATIONS
+
+Pour la Moto aller dans OpenIV ensuite
+
+Grand Theft Auto V\Mods\update\x64\dlcpacks\patchday1ng\dlc.rpf\x64\levels\gta5\vehicles.rpf
+
+Pour le vehicles.meta aller dans OpenIV ensuite 
+
+Grand Theft Auto V\Mods\update\update.rpf\common\data\levels\gta5
+
+extraire le vehicles.meta d'origine sur votre bureau et l'ouvrir avec NotePad ensuite aller dans le dossier du mods ouvrez le fichier "META" copier le contenu qui ce trouve dans "vehicles.meta" et coller le a la place de celui d'origine en effacant les lignes qui correspondent a celui-ci !
+
+Pour le carvariations.meta aller dans OpenIV ensuite
+
+Grand Theft Auto V\Mods\update\x64\dlcpacks\mpchristmas2\dlc.rpf\common\data
+
+extraire le carvariations.meta d'origine sur votre bureau et l'ouvrir avec NotePad ensuite aller dans le dossier du mods ouvrez le fichier "META" copier le contenu qui ce trouve dans "carvariations.meta" et coller le a la place de celui d'origine.
+
+
+
+
